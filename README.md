@@ -92,3 +92,5 @@ If you find our work useful for your research, please consider citing the paper
     archivePrefix={arXiv},
     primaryClass={cs.CV}}
 ```
+
+使用 ControlNet 控制 Stable Diffusion AI 绘画时，深度图越清晰，AI 绘画效果越好
